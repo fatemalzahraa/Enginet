@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295678215556",
+    "project_id": "enginet-auth",
+    "storage_bucket": "enginet-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295678215556:android:6f0b6bbc07f7bfc32389d1",
+        "android_client_info": {
+          "package_name": "com.enginet.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXGEDds_h33i2WICyJctO9frFpZ36T87w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
